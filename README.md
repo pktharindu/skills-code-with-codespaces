@@ -46,7 +46,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - Learn more about securing your supply chain by reading: [GitHub Codespaces overview](https://docs.github.com/en/codespaces/overview).
 - [We'd love to hear what you thought of this course](https://github.com/orgs/skills/discussions/categories/code-with-codespaces).
 - [Learn another GitHub skill](https://github.com/skills).
-- [Read the Get started with GitHub docs](https://docs.github.com/en/get-started).
 
 <footer>
 
